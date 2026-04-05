@@ -29,4 +29,4 @@ distribution and cost analysis.
 - Dashboard PDF Export
 
 ## Dashboard Preview
-[View PDF Dashboard] (Zomato_Restaurant_Dashboard.pdf)
+[View PDF Dashboard](Zomato_Restaurant_Dashboard.pdf)
